@@ -1,0 +1,8 @@
+label: 'Step one: Welcome'
+knowledgebase:
+  name: general
+  files: []
+prompt: 'I want you to welcome the user and ask what they may need help with in relation
+  to: Rhode Island healthcare POA to create a Medical consent for a minor. When asking
+  a question, I want to keep it short to not overwhelm the user.'
+conversation starters: []
